@@ -1,4 +1,4 @@
-package com.learn;
+package com.eric.jenkins;
 
 import java.util.ArrayList;
 import java.util.Arrays;
